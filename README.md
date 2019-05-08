@@ -10,16 +10,18 @@ A super simple, basic, and clean website intended to be used as a placeholder.
 
 ## Motivation
 
-> I created this as I had some domain names that were empty and I wanted to point the at something basic and simple for the time being.
+> I created this as I had some domain names that were empty and I wanted to point them at something basic and simple for the time being.
 
-## Demos
+## Demo
 
 - https://jambon.tk
 - https://dambon.ml
 
 ## Features
 
-- Minimal - small size, quick loading time
-- Dynamic page title - uses JS to determine title from the URL
-- One-click deployment to [Netlify](https://www.netlify.com/)
+- _Minimal_ - small size, quick to load time
+- _Dynamic_ - uses JS to determine title from the URL
+- _Refreshing_ - loads a random [Unsplash](https://unsplash.com/) image everytime
+- _Easy_ - one-click deployments to [Netlify](https://www.netlify.com/)
+- _Free_ - pair with a free [Freenom](https://www.freenom.com/en/index.html?lang=en) domain
 
