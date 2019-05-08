@@ -11,9 +11,9 @@ html {
     height: 100%;
 }
 
-/* a, a:hover, a:visited {
-    color: #fafafa;
-} */
+a, a:hover, a:visited {
+    color: black;
+}
 
 h1 {
     font-size: 4em;
