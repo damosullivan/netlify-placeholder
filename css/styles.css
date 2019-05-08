@@ -1,0 +1,25 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 90%;
+}
+
+html {
+    height: 100%;
+}
+
+/* a, a:hover, a:visited {
+    color: #fafafa;
+} */
+
+h1 {
+    font-size: 4em;
+}
+
+/* img {
+    width: 300px;
+    height: auto;
+} */
