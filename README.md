@@ -24,5 +24,4 @@ A super simple website intended to be used as a domain placeholder (with Netlify
 
 ## Demo
 
-- https://jambon.tk
-- https://dambon.ml
+- https://zen-shannon-a22d90.netlify.app/
