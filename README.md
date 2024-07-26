@@ -17,7 +17,7 @@ A super simple website intended to be used as a domain placeholder (with Netlify
 
 - _Minimal_ - small size, quick to load time
 - _Dynamic_ - uses JS to determine title from the URL
-- _Refreshing_ - loads a random [Unsplash](https://unsplash.com/) image everytime
+- _Refreshing_ - loads a random ~~[Unsplash](https://unsplash.com/)~~ [picsum.photos](https://picsum.photos/) image everytime
 - _Easy_ - one-click deployments to [Netlify](https://www.netlify.com/)
 - _Free_ - pair with a free [Freenom](https://www.freenom.com/en/index.html?lang=en) domain
 
